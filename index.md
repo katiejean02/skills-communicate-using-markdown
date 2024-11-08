@@ -3,3 +3,6 @@
 ```
 YAKTOCAT
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolia
+- [ ] Introduce myself to the world
